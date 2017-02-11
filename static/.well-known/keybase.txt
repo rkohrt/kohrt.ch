@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/ralfk
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kohrt.ch
+  * I am ralfk (https://keybase.io/ralfk) on keybase.
+  * I have a public key ASDg_OlUtymnAPeL8__cbiyhCtXt-mdmvTVnEvqJrtBPPAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120e0fce954b729a700f78bf3ffdc6e2ca10ad5edfa6766bd356712fa89aed04f3c0a",
+            "host": "keybase.io",
+            "kid": "0120e0fce954b729a700f78bf3ffdc6e2ca10ad5edfa6766bd356712fa89aed04f3c0a",
+            "uid": "9589280f87d0ea425eea0df7fd3b4919",
+            "username": "ralfk"
+        },
+        "service": {
+            "hostname": "kohrt.ch",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1486805847,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1486805834,
+        "hash": "01944787d9fb8eb76cbc81be560dd0c7b9fd3aeb26f06dd6ca7254a825fa0bb44c62f648da1069a56d8b213f301a261a66dd592fd5f59dedb16b20c39d9e8f76",
+        "seqno": 875966
+    },
+    "prev": "fddffa8fd976fc43378315c05bcad856a8f999673454e6cc4737b12053b6aaaf",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4PzpVLcppwD3i/P/3G4soQrV7fpnZr01ZxL6ia7QTzwKp3BheWxvYWTFAu17ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZTBmY2U5NTRiNzI5YTcwMGY3OGJmM2ZmZGM2ZTJjYTEwYWQ1ZWRmYTY3NjZiZDM1NjcxMmZhODlhZWQwNGYzYzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZTBmY2U5NTRiNzI5YTcwMGY3OGJmM2ZmZGM2ZTJjYTEwYWQ1ZWRmYTY3NjZiZDM1NjcxMmZhODlhZWQwNGYzYzBhIiwidWlkIjoiOTU4OTI4MGY4N2QwZWE0MjVlZWEwZGY3ZmQzYjQ5MTkiLCJ1c2VybmFtZSI6InJhbGZrIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJrb2hydC5jaCIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDg2ODA1ODQ3LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODY4MDU4MzQsImhhc2giOiIwMTk0NDc4N2Q5ZmI4ZWI3NmNiYzgxYmU1NjBkZDBjN2I5ZmQzYWViMjZmMDZkZDZjYTcyNTRhODI1ZmEwYmI0NGM2MmY2NDhkYTEwNjlhNTZkOGIyMTNmMzAxYTI2MWE2NmRkNTkyZmQ1ZjU5ZGVkYjE2YjIwYzM5ZDllOGY3NiIsInNlcW5vIjo4NzU5NjZ9LCJwcmV2IjoiZmRkZmZhOGZkOTc2ZmM0MzM3ODMxNWMwNWJjYWQ4NTZhOGY5OTk2NzM0NTRlNmNjNDczN2IxMjA1M2I2YWFhZiIsInNlcW5vIjo5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQJxOo0OmD61hdoOnSWJsS44KSsMIy4yCgfbbIFWmyUZ4PJnEGqQnxeVhauE7/wEsNrma2UXxoVobANvE2mdNYQ+oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAi5U+/DB6EtiIWtChYKPMVvVq+XOCMX0IsWOz3bE17IaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ralfk
+
+==================================================================
+
