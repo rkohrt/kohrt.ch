@@ -33,4 +33,4 @@ weight = 1
 
 # Biography
 
-Ralf Kohrt is a PhD candidate at the chair of Entrepreneurial Risk at ETH Zürich. His research interests include financial markets, financial bubbles, machine learning and agent based modeling.  
+Ralf Kohrt is a research assistant at the chair of Entrepreneurial Risk at ETH Zürich. His research interests include financial markets, financial bubbles, machine learning and agent based modeling.  
